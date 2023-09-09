@@ -11,6 +11,8 @@ people around the world. AChE inhibitors are a common treatment for AD, examples
 drugs include donepezil, galantamine, and rivastigmine. These drugs compensate for
 the death of cholinergic neurons and offer symptomatic relief.
 
+Forked this repository upon the recommendation by Mr. Abhishek Tamrakar.
+
 <h2>Folder Structure</h2>
 
 <UL>
